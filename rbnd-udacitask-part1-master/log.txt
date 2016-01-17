@@ -1,3 +1,9 @@
+commit a7e9b31e1a9aa1cdd6934ddd1d8c6bd875c3be77
+Author: Jacob Howarth <jshowa.git@gmail.com>
+Date:   Sun Jan 17 01:11:57 2016 -0500
+
+    Added new_features.txt. Moved Priority class for items to own file. Renamed udacitask_starter to udacitask. Cleaned up directory.
+
 commit a8e7f34da45d7a57d8fc23a3958b88e93805358f
 Author: Jacob Howarth <jshowa.git@gmail.com>
 Date:   Sat Jan 16 19:04:21 2016 -0500
