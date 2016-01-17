@@ -1,0 +1,5 @@
+commit d3d22c346e6e1380eb47bccbb78826ce0d0883b2
+Author: Jacob Howarth <jshowa.git@gmail.com>
+Date:   Fri Jan 1 19:42:20 2016 -0500
+
+    Added udacitask part 1 project. Renamed todolist_starter.rb to todolist.rb added initialize code, add item, delete item, print methods to TodoList. Added initialize code, completion update, completion check, print methods to Items class. Added priority enum class and priority escalate and de-escalate methods to Items class. Wrote some driver code to test methods in TodoList.
