@@ -1,3 +1,9 @@
+commit a8e7f34da45d7a57d8fc23a3958b88e93805358f
+Author: Jacob Howarth <jshowa.git@gmail.com>
+Date:   Sat Jan 16 19:04:21 2016 -0500
+
+    Added search by completion, priority, and description. Added sort by priority. Wrote test code for these features in driver.
+
 commit d3d22c346e6e1380eb47bccbb78826ce0d0883b2
 Author: Jacob Howarth <jshowa.git@gmail.com>
 Date:   Fri Jan 1 19:42:20 2016 -0500
